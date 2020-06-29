@@ -1,0 +1,6 @@
+User-Agent: T-1000
+User-Agent: T-800
+User-Agent: Bender
+User-Agent: Flexo
+User-Agent: Number_5
+Disallow: /+ErnestoSerrano
