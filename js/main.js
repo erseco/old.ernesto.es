@@ -143,7 +143,7 @@ $(document).ready(function() {
 function checkPrivacy() {
   if ($.cookie("privacy") == null) {
     $("#privacyoff").attr('id', 'privacy');
-    $("#privacy").html('<img src="//www.ernesto.es/img/cookiem.png" alt="Cookie Monster"> Esta web utiliza cookies. Si sigue navegando, se entiende que acepta las condiciones de uso. <a href="#" onclick="closePrivacy(); return false">Cerrar</a>');
+    $("#privacy").html('<img src="//old.ernesto.es/img/cookiem.png" alt="Cookie Monster"> Esta web utiliza cookies. Si sigue navegando, se entiende que acepta las condiciones de uso. <a href="#" onclick="closePrivacy(); return false">Cerrar</a>');
   }
 }
 
